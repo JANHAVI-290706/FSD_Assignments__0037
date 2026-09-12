@@ -1,0 +1,13 @@
+{
+  "name": "cartnest",
+  "version": "1.0.0",
+  "private": true,
+  "description": "CartNest - Mini E-Commerce Web Application",
+  "scripts": {
+    "start": "node start-all.js",
+    "dev": "node start-all.js",
+    "server": "npm run dev --prefix server",
+    "client": "npm run dev --prefix client",
+    "seed": "npm run seed --prefix server"
+  }
+}

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 240" width="100%" height="100%">
+  <rect width="320" height="240" rx="14" fill="#F0FDFA"/>
+  <circle cx="160" cy="120" r="80" fill="#CCFBF1"/>
+  <!-- Sole -->
+  <path d="M90 165 C130 165 190 165 235 160 C238 167 232 175 220 175 L95 175 C85 175 82 168 90 165 Z" fill="#E2E8F0" stroke="#0D9488" stroke-width="2"/>
+  <!-- Upper Shoe Body -->
+  <path d="M100 165 C100 135 125 115 145 115 C155 115 165 130 185 135 C205 140 225 145 235 160 Z" fill="#0F766E" stroke="#042F2E" stroke-width="3"/>
+  <!-- Swoosh / Stripe Accent -->
+  <path d="M130 145 Q165 135 195 155" fill="none" stroke="#F97316" stroke-width="4" stroke-linecap="round"/>
+  <!-- Laces -->
+  <line x1="148" y1="125" x2="162" y2="132" stroke="#FFFFFF" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="155" y1="133" x2="170" y2="140" stroke="#FFFFFF" stroke-width="2.5" stroke-linecap="round"/>
+</svg>

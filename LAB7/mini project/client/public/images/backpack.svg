@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 240" width="100%" height="100%">
+  <rect width="320" height="240" rx="14" fill="#FFF7ED"/>
+  <circle cx="160" cy="120" r="80" fill="#FFEDD5"/>
+  <!-- Handle -->
+  <path d="M150 70 C150 58 170 58 170 70" stroke="#7C2D12" stroke-width="4" fill="none" stroke-linecap="round"/>
+  <!-- Main Body -->
+  <path d="M130 85 C130 75 142 70 160 70 C178 70 190 75 190 85 L195 175 C195 182 188 188 180 188 L140 188 C132 188 125 182 125 175 Z" fill="#C2410C" stroke="#7C2D12" stroke-width="3"/>
+  <!-- Front Pocket -->
+  <rect x="136" y="125" width="48" height="50" rx="8" fill="#EA580C" stroke="#7C2D12" stroke-width="2.5"/>
+  <!-- Zipper Pull -->
+  <line x1="140" y1="125" x2="180" y2="125" stroke="#FED7AA" stroke-width="3"/>
+</svg>

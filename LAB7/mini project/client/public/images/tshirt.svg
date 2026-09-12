@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 240" width="100%" height="100%">
+  <rect width="320" height="240" rx="14" fill="#EEF2F6"/>
+  <circle cx="160" cy="120" r="80" fill="#E2E8F0"/>
+  <!-- T-shirt Body & Sleeves -->
+  <path d="M120 70 L95 105 L115 120 L125 110 L125 175 L195 175 L195 110 L205 120 L225 105 L200 70 C190 85 130 85 120 70 Z" fill="#2563EB" stroke="#1E3A8A" stroke-width="4" stroke-linejoin="round"/>
+  <!-- Collar / Neck -->
+  <path d="M135 70 C140 85 180 85 185 70" stroke="#1E3A8A" stroke-width="4" fill="none"/>
+  <!-- Detail Accent Line -->
+  <path d="M145 135 L175 135" stroke="#93C5FD" stroke-width="3" stroke-linecap="round"/>
+</svg>
